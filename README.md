@@ -5,3 +5,5 @@ I'm a passionate developer with a love for coding and creating awesome projects.
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanContrerasM&hide=stars,prs&show_icons=true&theme=radical&icon_color=39d353&text_color=FFFFFF)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanContrerasM)](https://github.com/anuraghazra/github-readme-stats)

@@ -11,7 +11,7 @@ I'm a passionate developer with a love for coding and creating awesome projects.
 ![](https://github-readme-stats.vercel.app/api?username=JonathanContrerasM&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&icon_color=39d353)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JonathanContrerasM&theme=monokai&hide_border=false)<br/>
 
-<!---  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanContrerasM&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanContrerasM&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 <!--- [![](https://visitcount.itsvg.in/api?id=JonathanContrerasM&icon=1&color=0)](https://visitcount.itsvg.in)-->

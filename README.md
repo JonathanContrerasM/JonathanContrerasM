@@ -1,7 +1,5 @@
 ### Hi there! 👋 I'm Jonathan
 
-I'm a passionate developer with a love for coding and creating awesome projects. Welcome to my GitHub profile! Feel free to explore my repositories and contributions.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-contreras-7a7377170/)
 

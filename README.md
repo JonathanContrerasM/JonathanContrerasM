@@ -191,12 +191,13 @@
 
 <div align="center">
 
-<a href="https://github.com/JonathanContrerasM/StrongInsight">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JonathanContrerasM&repo=StrongInsight&theme=tokyonight&hide_border=true&description_lines_count=2" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JonathanContrerasM&repo=StrongInsight&theme=default&hide_border=true&description_lines_count=2" alt="StrongInsight" />
-  </picture>
-</a>
+### [🏋️ StrongInsight](https://github.com/JonathanContrerasM/StrongInsight)
+
+[![CI](https://img.shields.io/github/actions/workflow/status/JonathanContrerasM/StrongInsight/ci.yml?style=for-the-badge&label=CI&logo=githubactions&logoColor=white)](https://github.com/JonathanContrerasM/StrongInsight/actions/workflows/ci.yml)
+[![Stars](https://img.shields.io/github/stars/JonathanContrerasM/StrongInsight?style=for-the-badge&logo=github&color=7aa2f7)](https://github.com/JonathanContrerasM/StrongInsight/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/JonathanContrerasM/StrongInsight?style=for-the-badge&color=bb9af7)](https://github.com/JonathanContrerasM/StrongInsight/commits/main)
+[![Top language](https://img.shields.io/github/languages/top/JonathanContrerasM/StrongInsight?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/JonathanContrerasM/StrongInsight)
+[![License](https://img.shields.io/github/license/JonathanContrerasM/StrongInsight?style=for-the-badge&color=9ece6a)](https://github.com/JonathanContrerasM/StrongInsight/blob/main/LICENSE)
 
 </div>
 
@@ -211,12 +212,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=JonathanContrerasM&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonathanContrerasM&show_icons=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" alt="GitHub stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanContrerasM&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanContrerasM&theme=default" alt="GitHub stats" height="165" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonathanContrerasM&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonathanContrerasM&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top languages" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonathanContrerasM&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JonathanContrerasM&theme=default" alt="Repos per language" height="165" />
 </picture>
 
 <picture>
